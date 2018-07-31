@@ -1,0 +1,8 @@
+main: com.Pixeler.BlockCompress.BlockCompress
+name: BlockCompress
+author: Pixeler
+version: 1.0
+commands:
+   emerald:
+      description: Compress your emeralds into blocks!
+      permission: blockcompress.emerald
